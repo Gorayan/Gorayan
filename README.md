@@ -1,3 +1,6 @@
+![taiko2020](https://img.shields.io/badge/%E3%83%8B%E3%82%B8%E3%82%A4%E3%83%AD2020-%E9%8A%80%E8%B5%A4%E5%90%8D%E4%BA%BA-orange)
+![taiko2021](https://img.shields.io/badge/%E3%83%8B%E3%82%B8%E3%82%A4%E3%83%AD2021-%E9%8A%80%E8%B5%A4%E5%90%8D%E4%BA%BA-orange)
+![hosikuzu_ura](https://img.shields.io/badge/%E6%98%9F%E5%B1%91%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E8%A3%8F-%E5%8F%AF1-yellow)
 ### Hi there 👋
 
 <!--
